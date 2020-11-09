@@ -8,6 +8,7 @@ namespace ProyectoFinalCiclo
         {
             Console.WriteLine("Hola clase");
             Console.ReadLine();
+            Console.WriteLine("Todos un 10");
             Console.WriteLine("Todos un 3");
 
         }
